@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+}
+
+#mydiv {
+    text-align: center;
+}
+
+#top {
+    font-size: 20px;
+}
+
+#titre{
+    background-color: rgb(168, 167, 167);
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{     
+    color: snow;
+    padding: 10px;
+}
+
+img{
+    margin-top: 15px;
+    box-shadow: 8px 10px 10px #4a4a4d;
+
+}
+
+#menu {
+    display: flex;
+    background-color: grey;
+    justify-content: space-around;
+}
+
+a {
+    margin: 15px;
+    color: snow;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+div #top {
+    margin: 15px;
+    font-size: 25px;
+}
+
+#divtop10 p {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.invisible{
+    display: none;
+}
+
+.visible{
+    display: inherit;
+}
+
+#bout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
